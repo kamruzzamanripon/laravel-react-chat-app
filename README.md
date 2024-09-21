@@ -20,7 +20,7 @@ This is a Multi-Facility Real Time Chat App. Here you can create a Group. You ca
 
 ### Install
 - rename .env.example as .env and setup your database credentials
-- compuser update
+- composer update
 - php artisan serve
 - php artisan reverb:start
 - php artisan queue:start
